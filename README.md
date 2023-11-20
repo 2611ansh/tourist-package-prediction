@@ -39,7 +39,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/Machine-Learning-01/TouristPackagePrediction
+git clone https://github.com/2611ansh/tourist-package-prediction.git
 ```
 ```
 cd TouristPackagePrediction
